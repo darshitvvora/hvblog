@@ -1,5 +1,5 @@
 # hvblog
-Blog using Hexo and Hexo MyAdmin Dashboard
+Blog using Hexo and Hexo MyAdmin Dashboard production ready in 15 minutes
 
 ## USAGE
 
